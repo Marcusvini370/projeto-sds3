@@ -11,13 +11,11 @@ import javax.persistence.Id;
 import javax.persistence.OneToMany;
 import javax.persistence.Table;
 
-import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.Setter;
 
 @Setter
 @Getter
-@AllArgsConstructor
 @Entity
 @Table(name= "tb_sellers")
 public class Seller implements Serializable {
@@ -31,5 +29,15 @@ public class Seller implements Serializable {
 	
 	@OneToMany(mappedBy = "seller")
 	private List<Sale> sales = new ArrayList<>();
+	
+public Seller() {
+		
+	}
+
+	public Seller(Long id, String name) {
+		
+		this.id = id;
+		this.name = name;
+	}
 
 }
