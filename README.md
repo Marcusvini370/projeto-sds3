@@ -3,7 +3,7 @@
 
 ## 🔖 Layout / Link de acesso 
 
-Você pode visualizar o layout do projeto através desse link https://upbeat-hamilton-64d0c5.netlify.app ,É necessário esperar alguns segundos para que o banco de dados suba.
+Você pode visualizar o layout do projeto através desse link https://upbeat-hamilton-64d0c5.netlify.app ,É necessário esperar alguns segundos para o banco de dados carregar no sistema.
 
 
 ![dsvendas](https://user-images.githubusercontent.com/48605830/117578313-1bb72c80-b0c4-11eb-8697-7b11c9e2fdd0.gif)
