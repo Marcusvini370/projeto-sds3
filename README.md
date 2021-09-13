@@ -6,7 +6,7 @@
 Você pode visualizar o layout do projeto através desse link https://upbeat-hamilton-64d0c5.netlify.app ,É necessário esperar alguns segundos para o banco de dados carregar no sistema.
 
 
-![dsvendas](https://user-images.githubusercontent.com/48605830/117578313-1bb72c80-b0c4-11eb-8697-7b11c9e2fdd0.gif)
+![sds](https://user-images.githubusercontent.com/51136557/133161610-84b8585e-5b52-4514-9ad6-2559c8998662.gif)
 
 ## 🚀 Tecnologias
 
